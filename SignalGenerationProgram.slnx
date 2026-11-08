@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="SignalGenerationProgram/SignalGenerationProgram.csproj" Id="76997f6f-5db7-4e8e-b799-bcee2fc99483" />
+  <Project Path="TestNUnit_QA/TestNUnit_QA.csproj" Id="28e80727-8bf0-4b1b-b595-344a32a43a6c" />
 </Solution>
